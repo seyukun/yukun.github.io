@@ -1,5 +1,6 @@
 ### Hi there 👋
 | **ALL Time Status** | **7 Days Status** |
+| :--: | :--: |
 | [![ALL Time Status](https://wakatime.com/share/@seyukun/4703e548-d976-49aa-82e1-c79bec5788a5.svg)](https://github.com/seyukun/) | [![7 Day Status](https://wakatime.com/share/@seyukun/7961b2d1-5aa6-454e-bc8c-26f66b69a4bd.svg)](https://github.com/seyukun/) |
 | [![Last Year Status](https://wakatime.com/share/@seyukun/e66eed45-dcf8-410f-9065-620d4e9a6697.svg)](https://github.com/seyukun/) | [![7 Day Status](https://wakatime.com/share/@seyukun/9e88758a-6d77-43f5-9330-ad0c4d8cb2fe.svg)](https://github.com/seyukun/) |
 
